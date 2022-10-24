@@ -1,0 +1,2 @@
+# FridgeServer
+Innowise Test Task
